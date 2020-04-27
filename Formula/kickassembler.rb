@@ -1,8 +1,8 @@
 class Kickassembler < Formula
   desc "Assembler for 6510 machine code and a high level script language"
   homepage "https://www.theweb.dk/KickAssembler/"
-  url "https://www.theweb.dk/KickAssembler/KickAssembler.zip"
-  version "4.19"
+  url "https://www.theweb.dk/KickAssembler/KickAssembler5.14.zip"
+  version "5.14"
   depends_on :java
 
   def install
